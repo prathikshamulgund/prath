@@ -1,5 +1,7 @@
 main() {
 add();
-sub();
+sub(){
+  printf("hello everyone !");
+}
 mult();
 }
