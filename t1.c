@@ -1,5 +1,7 @@
 main() {
-add();
+add(){
+  printf("addition")
+}
 sub();
 mult();
 }
